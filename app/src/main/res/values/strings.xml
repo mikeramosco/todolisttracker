@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">To-Do-List Tracker</string>
+
+    <!--  Bottom Navigation Strings  -->
+    <string name="homeString">Home</string>
+    <string name="toDoListsString">To-Do-Lists</string>
+
+    <!--  Home Fragment Strings  -->
+    <string name="addTaskString">Add Task</string>
+    <string name="addToDoListString">Add To-Do-List</string>
+    <string name="overdueTasksString">Show Overdue Tasks</string>
+    <string name="updateDateWhenCompletedString">Update Date When Completed</string>
+    <string name="showTasksOptionsString">Show Tasks Settings</string>
+    <string name="hideTasksOptionsString">Hide Tasks Settings</string>
+
+    <string name="selectToDoListOption">[Select To-Do-List]</string>
+
+    <string name="noToDoListSelectedError">Select which To-Do-List to add this task to.</string>
+
+    <string name="taskAddedSuccessfullyPrompt">The new task was successfully added.</string>
+
+    <string name="tasksForHeader">TASKS FOR</string>
+    <string name="containerCountHeader">%1$s (%2$s)</string>
+    <string name="todayHeader">TODAY</string>
+    <string name="tomorrowHeader">TOMORROW</string>
+    <string name="completedTasksHeader">COMPLETED TASKS</string>
+
+    <string name="noCompletedTasksPrompt">You have not completed any tasks yet.</string>
+    <string name="noTasksToShowPrompt">You have no scheduled tasks to show.</string>
+
+    <!--  To Do List Activity Strings  -->
+    <string name="newToDoListHeader">NEW TO-DO-LIST</string>
+    <string name="saveHeader">SAVE</string>
+    <string name="tasksHeader">TASKS</string>
+    <string name="addNewTaskHeader">ADD NEW TASK</string>
+    <string name="confirmDeleteToDoListHeader">DELETE THIS TO-DO-LIST?</string>
+    <string name="saveOrDiscardNewToDoListHeader">SAVE OR DISCARD NEW TO-DO-LIST?</string>
+    <string name="confirmDeleteTaskHeader">DELETE TASK?</string>
+    <string name="editContactActivityHeader">EDIT TASK</string>
+    <string name="editNotesHeader">EDIT NOTES</string>
+
+    <string name="toDoListTitleString">To-Do-List Title</string>
+    <string name="taskString">Task</string>
+    <string name="changeDateString">Change Date</string>
+    <string name="editTaskString">Edit Task</string>
+    <string name="deleteTaskString">Delete Task</string>
+    <string name="notesString">Notes</string>
+
+    <string name="noTasksAddedPrompt">No tasks have been added yet.</string>
+    <string name="toDoListSavedPrompt">\'%1$s\' has been saved.</string>
+
+    <string name="titleBlankError">The \'To-Do-List Title\' field cannot be blank.</string>
+    <string name="taskBlankError">The \'Task\' field cannot be blank.</string>
+
+    <!--  To Do Lists Fragment Strings  -->
+    <string name="toDoListsHeader">TO-DO-LISTS</string>
+
+    <string name="sortByLabel">Sort By:</string>
+    <string name="displayLabel">Display:</string>
+
+    <string name="aToZOption">A to Z</string>
+    <string name="zToAOption">Z to A</string>
+    <string name="newestFirstOption">Newest First</string>
+    <string name="oldestFirstOption">Oldest First</string>
+    <string name="allContactsOption">All To-Do-Lists</string>
+    <string name="starredOnlyOption">Starred Only</string>
+
+    <string name="searchToDoListsPrompt">Search To-Do-Lists</string>
+    <string name="noToDoListsPrompt">There are no To-Do-Lists to show.</string>
+
+    <!--  Shared Strings  -->
+    <string name="cancelString">Cancel</string>
+    <string name="discardString">Discard</string>
+    <string name="deleteString">Delete</string>
+    <string name="saveString">Save</string>
+</resources>
